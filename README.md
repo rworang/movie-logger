@@ -1,6 +1,6 @@
 # Movie Logger (WIP)
 
-Movie Logger is a app to easily memorize what movies/tv shows/anime you have watched. You can rate them, write private or public reviews, add them to lists, find new things to watch and much more.
+Movie Logger is an app to easily memorize what movies/tv shows/anime you have watched. You can rate them, write private or public reviews, add them to lists, find new things to watch and much more.
 
 ## Back-End API
 
